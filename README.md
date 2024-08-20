@@ -26,4 +26,4 @@ To view or contribute to this project, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Geet-manik/SWC-Directory
+   git clone https://github.com/Geet-manik/SWC-Directory.git
